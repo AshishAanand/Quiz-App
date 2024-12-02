@@ -1,0 +1,243 @@
+[
+    {
+      "category": "Science",
+      "question": "What is the chemical symbol for water?",
+      "options": ["H2O", "O2", "CO2", "HO"],
+      "answer": "H2O"
+    },
+    {
+      "category": "Math",
+      "question": "What is the square root of 64?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "8"
+    },
+    {
+      "category": "History",
+      "question": "Who was the first president of the United States?",
+      "options": ["Abraham Lincoln", "Thomas Jefferson", "George Washington", "Benjamin Franklin"],
+      "answer": "George Washington"
+    },
+    {
+      "category": "Geography",
+      "question": "Which is the largest continent?",
+      "options": ["Asia", "Africa", "Europe", "Antarctica"],
+      "answer": "Asia"
+    },
+    {
+      "category": "Technology",
+      "question": "What does 'HTTP' stand for?",
+      "options": ["Hypertext Transfer Protocol", "Hypertext Transfer Program", "High Transfer Text Protocol", "High Text Transfer Program"],
+      "answer": "Hypertext Transfer Protocol"
+    },
+    {
+        "category": "Science",
+        "question": "What planet is known as the Red Planet?",
+        "options": ["Earth", "Venus", "Mars", "Jupiter"],
+        "answer": "Mars"
+    },
+    {
+        "category": "Math",
+        "question": "What is 7 multiplied by 8?",
+        "options": ["54", "56", "49", "63"],
+        "answer": "56"
+    },
+    {
+        "category": "History",
+        "question": "Who discovered America?",
+        "options": ["Christopher Columbus", "James Cook", "Ferdinand Magellan", "Marco Polo"],
+        "answer": "Christopher Columbus"
+    },
+    {
+        "category": "Geography",
+        "question": "What is the capital city of France?",
+        "options": ["Paris", "Berlin", "Rome", "Madrid"],
+        "answer": "Paris"
+    },
+    {
+        "category": "Technology",
+        "question": "Who is known as the father of computers?",
+        "options": ["Alan Turing", "Charles Babbage", "Bill Gates", "Steve Jobs"],
+        "answer": "Charles Babbage"
+    },
+    {
+        "category": "Science",
+        "question": "What gas do plants primarily use for photosynthesis?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Methane"],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "category": "Math",
+        "question": "What is the value of π (pi) to two decimal places?",
+        "options": ["3.12", "3.14", "3.16", "3.18"],
+        "answer": "3.14"
+    },
+    {
+        "category": "History",
+        "question": "Which war was fought between the North and South regions of the United States?",
+        "options": ["World War I", "The Revolutionary War", "The Civil War", "The Cold War"],
+        "answer": "The Civil War"
+    },
+    {
+        "category": "Geography",
+        "question": "Which is the smallest country in the world?",
+        "options": ["Vatican City", "Monaco", "Nauru", "San Marino"],
+        "answer": "Vatican City"
+    },
+    {
+        "category": "Technology",
+        "question": "What does 'CPU' stand for?",
+        "options": ["Central Processing Unit", "Computer Processing Unit", "Central Power Unit", "Computer Power Unit"],
+        "answer": "Central Processing Unit"
+    },
+    {
+        "category": "Science",
+        "question": "What is the largest organ in the human body?",
+        "options": ["Heart", "Liver", "Skin", "Lungs"],
+        "answer": "Skin"
+    },
+    {
+        "category": "Math",
+        "question": "What is the sum of angles in a triangle?",
+        "options": ["90°", "180°", "360°", "270°"],
+        "answer": "180°"
+    },
+    {
+        "category": "History",
+        "question": "Who wrote the Declaration of Independence?",
+        "options": ["Thomas Jefferson", "George Washington", "Benjamin Franklin", "John Adams"],
+        "answer": "Thomas Jefferson"
+    },
+    {
+        "category": "Geography",
+        "question": "What is the longest river in the world?",
+        "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+        "answer": "Nile River"
+    },
+    {
+        "category": "Technology",
+        "question": "What is the primary programming language for Android development?",
+        "options": ["Python", "Java", "C++", "Swift"],
+        "answer": "Java"
+    },
+    {
+        "category": "Science",
+        "question": "What is the boiling point of water at sea level?",
+        "options": ["90°C", "100°C", "110°C", "120°C"],
+        "answer": "100°C"
+    },
+    {
+        "category": "Math",
+        "question": "What is 15% of 200?",
+        "options": ["25", "30", "35", "40"],
+        "answer": "30"
+    },
+    {
+        "category": "History",
+        "question": "Who was the first person to set foot on the moon?",
+        "options": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "Michael Collins"],
+        "answer": "Neil Armstrong"
+    },
+    {
+        "category": "Geography",
+        "question": "Which ocean is the largest?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+        "answer": "Pacific Ocean"
+    },
+    {
+        "category": "Technology",
+        "question": "What does 'RAM' stand for in computing?",
+        "options": ["Random Access Memory", "Read Access Memory", "Read-Only Memory", "Rapid Access Memory"],
+        "answer": "Random Access Memory"
+    },
+    {
+        "category": "Science",
+        "question": "What is the atomic number of oxygen?",
+        "options": ["6", "7", "8", "9"],
+        "answer": "8"
+    },
+    {
+        "category": "Math",
+        "question": "What is the factorial of 5?",
+        "options": ["20", "60", "120", "720"],
+        "answer": "120"
+    },
+    {
+        "category": "History",
+        "question": "In which year did World War II end?",
+        "options": ["1943", "1944", "1945", "1946"],
+        "answer": "1945"
+    },
+    {
+        "category": "Geography",
+        "question": "Which country has the most population?",
+        "options": ["India", "United States", "China", "Russia"],
+        "answer": "China"
+    },
+    {
+        "category": "Technology",
+        "question": "Which programming language is known as the 'language of the web'?",
+        "options": ["Python", "JavaScript", "Java", "C++"],
+        "answer": "JavaScript"
+    },
+    {
+        "category": "Science",
+        "question": "Which part of the plant conducts photosynthesis?",
+        "options": ["Roots", "Stem", "Leaves", "Flowers"],
+        "answer": "Leaves"
+    },
+    {
+        "category": "Math",
+        "question": "What is the value of 2 raised to the power of 5?",
+        "options": ["16", "32", "64", "128"],
+        "answer": "32"
+    },
+    {
+        "category": "History",
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Claude Monet"],
+        "answer": "Leonardo da Vinci"
+    },
+    {
+        "category": "Geography",
+        "question": "What is the capital of Japan?",
+        "options": ["Seoul", "Tokyo", "Beijing", "Bangkok"],
+        "answer": "Tokyo"
+    },
+    {
+        "category": "Technology",
+        "question": "What does 'IoT' stand for?",
+        "options": ["Internet of Things", "Internet of Technology", "Input-Output Technology", "Information of Things"],
+        "answer": "Internet of Things"
+    },
+    {
+        "category": "Science",
+        "question": "What is the most abundant gas in Earth's atmosphere?",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+        "answer": "Nitrogen"
+    },
+    {
+        "category": "Math",
+        "question": "What is the area of a circle with radius 7 (π = 22/7)?",
+        "options": ["154", "144", "164", "134"],
+        "answer": "154"
+    },
+    {
+        "category": "History",
+        "question": "Which empire was ruled by Julius Caesar?",
+        "options": ["Macedonian Empire", "Roman Empire", "Ottoman Empire", "British Empire"],
+        "answer": "Roman Empire"
+    },
+    {
+        "category": "Geography",
+        "question": "Which desert is the largest in the world?",
+        "options": ["Sahara Desert", "Arctic Desert", "Gobi Desert", "Antarctic Desert"],
+        "answer": "Antarctic Desert"
+    },
+    {
+        "category": "Technology",
+        "question": "What does 'DNS' stand for?",
+        "options": ["Domain Name System", "Data Network System", "Digital Name Server", "Domain Network Server"],
+        "answer": "Domain Name System"
+    }
+  ]
+  
